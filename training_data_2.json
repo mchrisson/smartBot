@@ -1,0 +1,714 @@
+{
+    "intents": {
+        "I_Goodbye_HEADER": {
+            "utterances": [
+                {
+                    "id": "6999b453-79bc-4951-a8dc-a7e7c5510d19",
+                    "data": [
+                        {
+                            "text": "thanks",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "34e2aeda-1cd1-4174-b163-c7f6bdce972b",
+                    "data": [
+                        {
+                            "text": "thank you",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "2de3ef0c-4db0-4fba-b73c-5fe07a8a8867",
+                    "data": [
+                        {
+                            "text": "bye thank you",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "5b11b3ac-1bc4-4034-825f-534aaa609c17",
+                    "data": [
+                        {
+                            "text": "bye",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "f2fb9194-5e09-4fc8-abd3-5797b15b175e",
+                    "data": [
+                        {
+                            "text": "bye bye",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "9f0cabbe-66a9-475f-a473-4fba1cd6c9b5",
+                    "data": [
+                        {
+                            "text": "good bye",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "b7e19277-d556-45f2-8b56-1eda104d70e7",
+                    "data": [
+                        {
+                            "text": "goodbye",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "edf93d35-e0cd-4d40-9a2d-b18d120826d2",
+                    "data": [
+                        {
+                            "text": "good bye ada",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "3e53c5f0-ae42-448d-92ff-94daf231f378",
+                    "data": [
+                        {
+                            "text": "goodbye ada",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "fb5a7342-5fc0-4e50-8ebc-d5c73ff8fdbe",
+                    "data": [
+                        {
+                            "text": "thanks ada",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 1516290756
+                },
+                {
+                    "id": "e60100c8-3e33-4df6-aa65-a1bc6a101843",
+                    "data": [
+                        {
+                            "text": "thank you ada",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 1516290756
+                }
+            ]
+        },
+        "I_Customer_HEADER": {
+            "utterances": [
+                {
+                    "id": "4d2607ad-6d56-474a-ac52-34babbb52f64",
+                    "data": [
+                        {
+                            "text": "Show me Customers",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 0
+                },
+                {
+                    "id": "16e1c57e-622e-4496-9dd8-f585cafdfc4f",
+                    "data": [
+                        {
+                            "text": "Show me Customers",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 0
+                },
+                {
+                    "id": "7a40dda9-9efd-4a43-aaeb-cd5b828d7fcd",
+                    "data": [
+                        {
+                            "text": "Show me Customers",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 0
+                },
+                {
+                    "id": "7384083c-b001-4d6e-b624-586e22a3fb50",
+                    "data": [
+                        {
+                            "text": "I want to see my customer",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 0
+                },
+                {
+                    "id": "1b8d5a45-c2a7-442e-9ee0-3805fed1bd17",
+                    "data": [
+                        {
+                            "text": "I want to see my customer",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 0
+                },
+                {
+                    "id": "eafd935b-0ec3-484c-8b8f-021e2cb13235",
+                    "data": [
+                        {
+                            "text": "I want to see my customers",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 0
+                },
+                {
+                    "id": "891c68e3-8af5-48a5-820f-61c51a96edf0",
+                    "data": [
+                        {
+                            "text": "atos",
+                            "meta": "@sys.ignore",
+                            "userDefined": false
+                        },
+                        {
+                            "text": " customers",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "a1a5b256-3fb2-4aab-9069-4c8144419bc0",
+                    "data": [
+                        {
+                            "text": "i want to see our customers",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "f91ac6b3-755c-4342-85ab-60c223151f1d",
+                    "data": [
+                        {
+                            "text": "let\u0027s see our customers",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "20a6f1ac-4def-4b40-8382-05b2657ed671",
+                    "data": [
+                        {
+                            "text": "let\u0027s start with customer",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 1513584784
+                },
+                {
+                    "id": "33098174-c61d-4939-bbe1-8470522e0d19",
+                    "data": [
+                        {
+                            "text": "start with customer",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 1513584784
+                },
+                {
+                    "id": "cc10ff89-a709-4ac9-b9e1-7554efb71db6",
+                    "data": [
+                        {
+                            "text": "customer please",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 1513584784
+                },
+                {
+                    "id": "826de3d6-765e-42e3-92c8-66934ffee91a",
+                    "data": [
+                        {
+                            "text": "I select customer",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 1513584784
+                }
+            ]
+        },
+        "I_Welcome_Name_Input": {
+            "utterances": [
+                {
+                    "id": "0d2cfeca-20e7-4f90-8007-0a5dcfaed18c",
+                    "data": [
+                        {
+                            "text": "my name is ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "Ganesh",
+                            "entity": "FirstName",
+                            "slot_name": "FirstName",
+                            "meta": "@FirstName",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 0
+                },
+                {
+                    "id": "e6d35055-b702-4390-a38e-76264724543c",
+                    "data": [
+                        {
+                            "text": "my name is ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "Ganesh",
+                            "entity": "FirstName",
+                            "slot_name": "FirstName",
+                            "meta": "@FirstName",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 0
+                },
+                {
+                    "id": "b433a424-606f-42cb-8ea8-6356c02f35f2",
+                    "data": [
+                        {
+                            "text": "my name is ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "Ganesh",
+                            "entity": "FirstName",
+                            "slot_name": "FirstName",
+                            "meta": "@FirstName",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 0
+                },
+                {
+                    "id": "cb584d9e-970f-4e3e-9240-3af34521a5c8",
+                    "data": [
+                        {
+                            "text": "my name is ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "Ganesh",
+                            "entity": "FirstName",
+                            "slot_name": "FirstName",
+                            "meta": "@FirstName",
+                            "userDefined": false
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 0
+                },
+                {
+                    "id": "08bfcc9f-c808-4991-896c-74823422f7df",
+                    "data": [
+                        {
+                            "text": "firstName",
+                            "entity": "FirstName",
+                            "slot_name": "FirstName",
+                            "meta": "@FirstName",
+                            "userDefined": true
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "bcd20980-e382-4e41-8590-e8c927a5efa9",
+                    "data": [
+                        {
+                            "text": "hello this is ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "firstName",
+                            "entity": "FirstName",
+                            "slot_name": "FirstName",
+                            "meta": "@FirstName",
+                            "userDefined": true
+                        },
+                        {
+                            "text": " ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "lastName",
+                            "entity": "LastName",
+                            "slot_name": "LastName",
+                            "meta": "@LastName",
+                            "userDefined": true
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "41366389-9d86-4ffd-898a-6235b1af9fe5",
+                    "data": [
+                        {
+                            "text": "this is ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "firstName",
+                            "entity": "FirstName",
+                            "slot_name": "FirstName",
+                            "meta": "@FirstName",
+                            "userDefined": false
+                        },
+                        {
+                            "text": " ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "lastName",
+                            "entity": "LastName",
+                            "slot_name": "LastName",
+                            "meta": "@LastName",
+                            "userDefined": true
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "97763a03-8c94-40c8-af3b-4a25b3b56556",
+                    "data": [
+                        {
+                            "text": "hi this is ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "firstName",
+                            "entity": "FirstName",
+                            "slot_name": "FirstName",
+                            "meta": "@FirstName",
+                            "userDefined": true
+                        },
+                        {
+                            "text": " ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "lastName",
+                            "entity": "LastName",
+                            "slot_name": "LastName",
+                            "meta": "@LastName",
+                            "userDefined": true
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "28554748-ae0c-41fa-b813-742a8c9e935f",
+                    "data": [
+                        {
+                            "text": "I am ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "firstName",
+                            "entity": "FirstName",
+                            "slot_name": "FirstName",
+                            "meta": "@FirstName",
+                            "userDefined": true
+                        },
+                        {
+                            "text": " ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "lastName",
+                            "entity": "LastName",
+                            "slot_name": "LastName",
+                            "meta": "@LastName",
+                            "userDefined": true
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 1
+                },
+                {
+                    "id": "6f2e2a3a-c2f3-4a05-b83e-921f9bfb643a",
+                    "data": [
+                        {
+                            "text": "my name is ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "firstName",
+                            "entity": "FirstName",
+                            "slot_name": "FirstName",
+                            "meta": "@FirstName",
+                            "userDefined": true
+                        },
+                        {
+                            "text": " ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "lastName",
+                            "entity": "LastName",
+                            "slot_name": "LastName",
+                            "meta": "@LastName",
+                            "userDefined": true
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 1516286244
+                }
+            ]
+        },
+        "I_Customer_Total_Sales_Volume": {
+            "utterances": [
+                {
+                    "id": "b51b44b6-973d-45a8-bbed-92960b2eb31b",
+                    "data": [
+                        {
+                            "text": "what sales volume ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "abcd",
+                            "entity": "Customer",
+                            "slot_name": "Customer",
+                            "meta": "@Customer",
+                            "userDefined": true
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "36dacbf2-2518-4fc9-83d2-4823d9ee42c9",
+                    "data": [
+                        {
+                            "text": "show me sales volume ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "abcd",
+                            "entity": "Customer",
+                            "slot_name": "Customer",
+                            "meta": "@Customer",
+                            "userDefined": true
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "5ab25b21-372d-438b-b88a-2cbee3a9d415",
+                    "data": [
+                        {
+                            "text": "what is the sales volume ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "abcd",
+                            "entity": "Customer",
+                            "slot_name": "Customer",
+                            "meta": "@Customer",
+                            "userDefined": true
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "1e07eab1-dfc1-4c8e-8707-4ad71bbf1fdc",
+                    "data": [
+                        {
+                            "text": "tell me the total sales volume for customer ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "abcd",
+                            "entity": "Customer",
+                            "slot_name": "Customer",
+                            "meta": "@Customer",
+                            "userDefined": true
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 1
+                },
+                {
+                    "id": "504d2e7a-bc25-4c12-909c-c726db93a658",
+                    "data": [
+                        {
+                            "text": "tell me the sales volume for customer ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "abcd",
+                            "entity": "Customer",
+                            "slot_name": "Customer",
+                            "meta": "@Customer",
+                            "userDefined": true
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "94293de8-216c-44ff-b5ea-528646a56528",
+                    "data": [
+                        {
+                            "text": "what is the sales volume for customer ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "abcd",
+                            "entity": "Customer",
+                            "slot_name": "Customer",
+                            "meta": "@Customer",
+                            "userDefined": true
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "79dc652c-cc42-420c-9532-79951c8a87bd",
+                    "data": [
+                        {
+                            "text": "sales volume for ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "customer",
+                            "meta": "@sys.ignore",
+                            "userDefined": false
+                        },
+                        {
+                            "text": " ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "abcd",
+                            "entity": "Customer",
+                            "slot_name": "Customer",
+                            "meta": "@Customer",
+                            "userDefined": true
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0
+                },
+                {
+                    "id": "b60003a5-e676-465e-b259-6b0aefd6c46c",
+                    "data": [
+                        {
+                            "text": "Total sales volume for customer ",
+                            "userDefined": false
+                        },
+                        {
+                            "text": "abcd",
+                            "entity": "Customer",
+                            "slot_name": "Customer",
+                            "meta": "@Customer",
+                            "userDefined": true
+                        }
+                    ],
+                    "isTemplate": false,
+                    "count": 0,
+                    "updated": 1513595125
+                }
+            ]
+        }
+    },
+    "entities": {
+        "location": {
+            "data": [],
+            "use_synonyms": true,
+            "automatically_extensible": true
+        },
+        "FirstName": {
+            "data": [],
+            "use_synonyms": true,
+            "automatically_extensible": true
+        },
+        "LastName": {
+            "data": [],
+            "use_synonyms": true,
+            "automatically_extensible": true
+        },
+        "Customer": {
+            "data": [],
+            "use_synonyms": true,
+            "automatically_extensible": true
+        }
+    },
+    "language": "en"
+}
